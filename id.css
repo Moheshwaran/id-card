@@ -1,0 +1,28 @@
+body{
+background-color: black;
+
+}
+.bro{
+background-color: whitesmoke;
+width: 200px;
+border: 40px;
+padding: 20px;
+margin: 10px;
+border: 5px solid blue;
+}
+.m1{
+color: red;
+text-align: center;
+}
+.m3{
+padding: 0;
+}
+h3{
+font-family: sans-serif;
+}
+.m4{
+text-align: left 0;
+}
+.m2{
+border-radius: 70px;
+}
